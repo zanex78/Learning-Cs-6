@@ -1,0 +1,15 @@
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/bin/Debug/net6.0/Learning6
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/bin/Debug/net6.0/Learning6.deps.json
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/bin/Debug/net6.0/Learning6.runtimeconfig.json
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/bin/Debug/net6.0/Learning6.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/bin/Debug/net6.0/Learning6.pdb
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.csproj.AssemblyReference.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.AssemblyInfoInputs.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.AssemblyInfo.cs
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.csproj.CoreCompileInputs.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/refint/Learning6.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.pdb
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/Learning6.genruntimeconfig.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning6/Learning6/obj/Debug/net6.0/ref/Learning6.dll
